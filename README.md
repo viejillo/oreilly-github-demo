@@ -5,9 +5,9 @@ A great example repo you can fork to your heart’s content, that serves as a la
 
 ## Getting started
 
-The first thing you want to do with this repo is quite likely **fork it**.  Use the Fork button in the top-right section of the page to do this.
+The first thing you want to do with this repo is quite likely [**fork it**](https://help.github.com/articles/fork-a-repo/).  Use the Fork button in the top-right section of the page to do this.
 
-Once you’re on your fork, you can experiment however you like with it, play with branches, issues, milestones, labels, the wiki, and more.
+Once you’re on your fork, you can experiment however you like with it, play with [branches](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository/), [issues](http://grupokino.com), [milestones](http://grupokino.com), [labels](http://ivteo.com), [the wiki](http://ivteo.com), and more.
 
 ## What’s in there?
 
